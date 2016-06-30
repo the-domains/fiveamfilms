@@ -1,7 +1,7 @@
 name: fiveamfilms
 favicon: null
-layout_spectrum: 0.12149977497756481
-typography_spectrum: 0.6072083404287696
+layout_spectrum: 0.50586
+typography_spectrum: 0.32747
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
+    - '#1b1919'
+    - '#ffffff'
+    - '#d2d1d1'
+    - '#6c6b6b'
+    - '#a8a8a8'
   brandStrength: 0.9982101824134588
   lightness: 0.703357960563153
   saturation: 0.7451070884708315
